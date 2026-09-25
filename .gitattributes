@@ -1,0 +1,6 @@
+*.woff binary  
+yarn.lock linguist-generated
+src/*.ts linguist-detectable
+*.min.css linguist-generated
+public/index.html linguist-vendored
+* text=auto eol=lf
